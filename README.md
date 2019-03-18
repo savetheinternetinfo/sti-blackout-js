@@ -9,7 +9,8 @@ Save the Internet with us
 
 ## :pushpin: What is this?
 
-This is an Embed-ready script for the SaveTheInternet blackout.
+This is an Embed-ready script for the SaveTheInternet blackout. <br>
+Demo: [https://savetheinternetinfo.github.io/blackout/](https://savetheinternetinfo.github.io/blackout/)
 
 <hr>
 
