@@ -30,6 +30,9 @@ You can either use the versions inside the repository here and upload it your se
 
 **Note:** If you use wordpress, you can use our plugin: https://github.com/savetheinternetinfo/sti-blackout-wordpress
 
+> _In case you are wondering what the string thing on [line 7](https://github.com/savetheinternetinfo/sti-blackout-js/blob/master/blackout.js#L7) is: <br>
+> Thats the uri encoded version of the [blackout HTML script](https://github.com/savetheinternetinfo/blackout/blob/master/index.html) which gets injected into the fullscreen iFrame._ 
+
 <hr>
 
 ## :question: What is all of this really about?
