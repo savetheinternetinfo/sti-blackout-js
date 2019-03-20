@@ -40,3 +40,23 @@ You can either use the versions inside the repository here and upload it your se
 For more information visit https://savetheinternet.info
 
 <hr>
+
+## :heavy_exclamation_mark: Privacy
+
+The blackout landingpage uses a few resources from our website https://savetheinternet.info <br>
+In detail: Two images and a stylesheet.
+
+- https://savetheinternet.info/blackout/blackout.css
+- https://savetheinternet.info/blackout/blackout.gif
+- https://savetheinternet.info/blackout/logo.png
+
+And a google font
+
+- https://fonts.googleapis.com/css?family=Raleway
+
+All of them are transmitted over HTTPS only.
+
+SaveTheInternet Privacy policies: https://savetheinternet.info/privacy-policy <br>
+Google Fonts Terms: https://developers.google.com/terms/
+
+<hr>
