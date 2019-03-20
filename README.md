@@ -28,6 +28,12 @@ You can either use the versions inside the repository here and upload it your se
 <script type="text/javascript" src="https://static.savetheinternet.info/js/blackout.min.js" integrity="sha384-POfa3/ANDMAIdtz54sPKEAVJ9/fNkLChdCtTN3XWbUo6B4xDlLglE9mi3UulVy8P" crossorigin="anonymous"></script>
 ```
 
+or, if you wish, use the non-minified version: 
+
+```HTML
+<script type="text/javascript" src="https://static.savetheinternet.info/js/blackout.js" integrity="sha384-G11UJ2VrwjubfI4B22gCDhlTjFM7J4wz+lc8ihhQ1gsyHrPtlAoPBWkLUT9iVdHX" crossorigin="anonymous"></script>
+```
+
 **Note:** If you use wordpress, you can use our plugin: https://github.com/savetheinternetinfo/sti-blackout-wordpress
 
 > _In case you are wondering what the string thing on [line 7](https://github.com/savetheinternetinfo/sti-blackout-js/blob/master/blackout.js#L7) is: <br>
