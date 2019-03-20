@@ -25,7 +25,7 @@ In protest against Article 13 (uploadfilters) and Article 11 (link tax) of the c
 You can either use the versions inside the repository here and upload it your server, or use this snippet here and include it in the `<head>` section of your website:
 
 ```HTML
-<script type="text/javascript" src="https://static.savetheinternet.info/js/blackout.min.js"></script>
+<script type="text/javascript" src="https://static.savetheinternet.info/js/blackout.min.js" integrity="sha384-POfa3/ANDMAIdtz54sPKEAVJ9/fNkLChdCtTN3XWbUo6B4xDlLglE9mi3UulVy8P" crossorigin="anonymous"></script>
 ```
 
 **Note:** If you use wordpress, you can use our plugin: https://github.com/savetheinternetinfo/sti-blackout-wordpress
